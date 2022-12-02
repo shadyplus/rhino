@@ -24,3 +24,12 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+.fa-solid {
+    border-radius: 30px;
+    font-size: 20px;
+}
+.fa-brands{
+    border-radius: 30px;
+font-size: 20px;
+}
